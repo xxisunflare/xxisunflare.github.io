@@ -3907,3 +3907,9 @@ input, select, textarea {
 			}
 
 		}
+
+.autofit {
+	max-width: 100%;
+	height: auto;
+}
+		
