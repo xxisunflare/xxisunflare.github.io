@@ -3906,10 +3906,4 @@ input, select, textarea {
 				background-attachment: scroll;
 			}
 
-		}
-
-.autofit {
-	max-width: 100%;
-	max-height:100%;
-}
-		
+		}	
